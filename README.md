@@ -6,7 +6,7 @@
 
 ### 👨‍💻 What I do
       
-   * 💼 **I'm working on:**
+   * 🎩 **I'm working on:**
       - **[octavianbot]** - only for me {local} .
    * 🎓 **Learning** - nodejs, discord.js
 
