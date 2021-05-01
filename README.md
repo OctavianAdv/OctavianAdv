@@ -30,4 +30,4 @@
  
 
 ## 💻 What I'm working on
-   * **[octavianbot](https://octavian.tech)** - my bot to make it o p e n s o u r c e
+   * **nothing** - working only for me i wanna know more. I'm happy to learn something new. 
