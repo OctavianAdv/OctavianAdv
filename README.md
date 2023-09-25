@@ -22,12 +22,12 @@
 <img align="left" alt="Pawn" width="26px" src="https://i.imgur.com/80LYZl2.png" /> <br />
 
 <!--
-#### 🥅 2020 Goals: 
+#### 🥅 2023 Goals: 
    - [ ] Contribute more to Open Source projects
-   - [ ] Finish [`octavianbot`] 😂
-   - [ ] Learn more about API
+   - [ ] Releasing usefull apps / scripts for helping people that have PC Performance Issues 
 -->
  
 
 ## 💻 What I'm working on
-   * **nothing** - working only for me i wanna know more. I'm happy to learn something new. 
+ 
+ For the moment nothing. 
