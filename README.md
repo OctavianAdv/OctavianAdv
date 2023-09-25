@@ -8,7 +8,7 @@
       
    * 🎩 **I'm working on:**
       - **[octavianbot]** - only for me {local} .
-   * 🎓 **Learning** - nodejs, discord.js
+   * 🎓 **Learning** - python, java, c#.
 
 
 
