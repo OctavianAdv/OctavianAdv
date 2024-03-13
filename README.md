@@ -8,7 +8,7 @@
 
 [Octavian Tweaking Utility](https://discord.gg/BBtwEREjmj) - this program allows you to unleash the performance of your pc and get better fps and lower input latency !
 
-#Tech Stack 💻
+# Tech Stack 💻
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio, vscode, windows, powershell, mysql, linux, github, cpp, cs" />
