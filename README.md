@@ -4,9 +4,15 @@
 
 ---
 
-### 👨‍💻 What I do
+# What I am working on 👨‍💻
 
-- Right now i am modifying my Github Profile.
+[Octavian Tweaking Utility](https://discord.gg/BBtwEREjmj) - this program allows you to unleash the performance of your pc and get better fps and lower input latency !
 
+#Tech Stack 💻
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio, vscode, windows, powershell, mysql, linux, github, cpp, cs" />
+  </a>
+</p>
 
 [![OctavianAdv GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavianAdv)](https://github.com/OctavianAdv/github-readme-stats)
