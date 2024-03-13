@@ -7,3 +7,6 @@
 ### 👨‍💻 What I do
 
 - Right now i am modifying my Github Profile.
+
+
+[![OctavianAdv GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavianAdv)](https://github.com/OctavianAdv/github-readme-stats)
