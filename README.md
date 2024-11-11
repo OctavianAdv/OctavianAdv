@@ -11,7 +11,7 @@
 # Tech Stack 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,windows,powershell,mysql,linux,github,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,windows,powershell,mysql,linux,github,cpp,cs,c,nginx,nodejs" />
   </a>
 </p>
 
