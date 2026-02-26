@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=220&section=header&text=Octavian&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%2020%20y%2Fo%20%7C%20Romania%20🇷🇴&descSize=18&descAlignY=55" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%F0%9F%8E%93+2nd+Year+CS+Student+%40+Universitatea+1+Decembrie;%F0%9F%92%BB+Passionate+about+code+%26+performance+optimization" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%F0%9F%8E%93+2nd+Year+CS+Student+%40+Universitatea+1+Decembrie+Alba+Iulia;%F0%9F%92%BB+Passionate+about+code+%26+performance+optimization;%F0%9F%9A%80+Full-Stack+Developer+%7C+20+y%2Fo+%7C+Romania+%F0%9F%87%B7%F0%9F%87%B4" alt="Typing SVG" /></a>
 
 <br/>
 
