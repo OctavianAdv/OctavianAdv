@@ -1,169 +1,72 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1a0533,30:6D28D9,50:8B5CF6,70:A855F7,90:EC4899,100:F97316&height=230&section=header&text=OCTAVIAN&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Systems%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Performance%20Architect&descSize=16&descAlignY=54&descColor=c4b5fd" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%F0%9F%94%A5+PC+Optimization+%26+Tweaking+Specialist;%F0%9F%92%BB+Full-Stack+Developer+%7C+C+%2F+C%2B%2B+%2F+Python;%F0%9F%9A%80+Building+Tools+That+Push+Hardware+to+the+Limit;%E2%9A%A1+Low-Latency+%7C+High-Performance+%7C+Zero+Compromise" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1a0533,30:6D28D9,50:8B5CF6,70:A855F7,90:EC4899,100:F97316&height=200&section=header&text=OCTAVIAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Performance%20Architect&descSize=14&descAlignY=55&descColor=c4b5fd" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=OctavianAdv&color=6D28D9&style=for-the-badge&label=VIEWS" alt="views" />
-&nbsp;
+<img src="https://komarev.com/ghpvc/?username=OctavianAdv&color=6D28D9&style=flat-square&label=Profile+Views" alt="views" />
+&nbsp;&nbsp;
 <a href="https://github.com/OctavianAdv?tab=followers">
-  <img src="https://img.shields.io/github/followers/OctavianAdv?style=for-the-badge&color=A855F7&labelColor=0d1117&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/followers/OctavianAdv?style=flat-square&color=A855F7&labelColor=0d1117&logo=github&label=Followers" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://octaviantweaking.com" target="_blank">
-  <img src="https://img.shields.io/badge/octaviantweaking.com-F97316?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/octaviantweaking.com-F97316?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=white" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://davidenko.ro" target="_blank">
-  <img src="https://img.shields.io/badge/davidenko.ro-A855F7?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/davidenko.ro-A855F7?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=white" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open_to_Collaborate-6D28D9?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=white" />
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;About Me
+---
 
-<div align="center">
-<p>
-  <b>Systems engineer and full-stack developer from Romania, specializing in low-level performance optimization and high-performance computing.</b><br/>
-  Building tools that extract every frame and eliminate every millisecond of latency — from kernel-level tweaks to full-stack web applications.<br/>
-  Currently pursuing a CS degree while developing the <b>Octavian Tweaking Utility</b>, trusted by thousands of users worldwide.
-</p>
-</div>
+### About Me
 
-<br/>
+Systems engineer and full-stack developer from Romania, specializing in low-level performance optimization and high-performance computing. Building tools that extract every frame and eliminate every millisecond of latency — from kernel-level tweaks to full-stack web applications.
 
-```yaml
-name:       Octavian
-alias:      OctavianAdv
-age:        20
+Currently developing the **Octavian Tweaking Utility** — max FPS, lowest latency, zero bloat.
 
-roles:
-  - Full-Stack Developer
-  - Systems & Performance Engineer
-  - PC Optimization Specialist
+> *"If it runs, it can run faster."*
 
-current_focus:
-  project:  Octavian Tweaking Utility
-  goal:     Max FPS, lowest latency, zero bloat
+---
 
-philosophy: "If it runs, it can run faster."
-```
+### Octavian Tweaking Utility
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;Projects
-
-<div align="center">
+The ultimate PC performance tool — system tweaks, network optimization, and maximum FPS.
 
 <a href="https://discord.gg/BBtwEREjmj">
-  <img src="https://img.shields.io/badge/%F0%9F%94%A7_OCTAVIAN_TWEAKING_UTILITY-Unleash_Maximum_Performance-A855F7?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://octaviantweaking.com">
+  <img src="https://img.shields.io/badge/Website-F97316?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
+</div>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,bash,powershell&theme=dark" />
 <br/><br/>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**Octavian Tweaking Utility**<br/>
-_The ultimate PC performance tool_<br/><br/>
-`Max FPS` `Low Latency` `Zero Bloat`<br/>
-`System Tweaks` `Network Optimization`<br/><br/>
-[![Discord](https://img.shields.io/badge/Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/BBtwEREjmj)
-
-</td>
-<td width="50%" align="center">
-
-**Open Source Tools**<br/>
-_Performance scripts & configs_<br/><br/>
-`PowerShell` `Batch` `Registry`<br/>
-`Networking` `Drivers` `BIOS`<br/><br/>
-[![GitHub](https://img.shields.io/badge/Explore_Repos-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/OctavianAdv)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;What I'm Working On
-
-<div align="center">
-
-| 🔨 Current Focus | 🎯 Next Up | 🧠 Learning |
-|:---:|:---:|:---:|
-| Octavian Tweaking Utility v2 | Portfolio Website Redesign | Kernel-Level Optimization |
-| Full-Stack Web Projects | Open Source Contributions | Advanced Networking |
-| Community Growth | CI/CD Pipelines | Rust & Systems Programming |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;Tech Stack
-
-<div align="center">
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,bash,powershell&theme=dark" />
-</p>
-
-**Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,nodejs,express,tailwind&theme=dark" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase&theme=dark" />
-</p>
-
-**Systems & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,nginx,cloudflare&theme=dark" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma&theme=dark" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;Certifications & Education
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Networking_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
-
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,nodejs,express,tailwind&theme=dark" />
 <br/><br/>
-
-> 📜 *Cisco certification details — verification in progress*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,linux,windows,docker,nginx,cloudflare&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma&theme=dark" />
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;GitHub Stats
+---
+
+### GitHub Stats
 
 <div align="center">
 
@@ -172,83 +75,49 @@ _Performance scripts & configs_<br/><br/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavianAdv&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=OctavianAdv&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=EC4899&point=F97316&area=true&area_color=6D28D9" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=OctavianAdv&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
-
-<br/><br/>
-
-<!-- 3D Contribution Graph (auto-generated by .github/workflows/3d-contrib.yml) -->
-<img src="./profile-3d-contrib/profile-night-green.svg" width="98%" alt="3D Contribution Graph" />
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;Connect With Me
+---
+
+### Connect
 
 <div align="center">
 
 <a href="https://instagram.com/octaviantweaks" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://tiktok.com/@octavianxoc" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-%23000000?style=flat-square&logo=tiktok&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://youtube.com/@octavianxoc" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://kick.com/octavianxoc" target="_blank">
-  <img src="https://img.shields.io/badge/Kick-%2353FC18?style=for-the-badge&logo=kick&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kick-%2353FC18?style=flat-square&logo=kick&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://discord.gg/BBtwEREjmj" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://octaviantweaking.com" target="_blank">
-  <img src="https://img.shields.io/badge/octaviantweaking.com-%23F97316?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://davidenko.ro" target="_blank">
-  <img src="https://img.shields.io/badge/davidenko.ro-%23A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<!-- SNAKE (auto-generated by .github/workflows/snake.yml — runs on push) -->
+<!-- SNAKE (auto-generated by .github/workflows/snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctavianAdv/OctavianAdv/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctavianAdv/OctavianAdv/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/OctavianAdv/OctavianAdv/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20it%20runs%2C%20it%20can%20run%20faster.&author=Octavian" width="70%" />
-
-<br/><br/>
-
-### 💬 Let's Work Together
-
-<p>
-  <b>Interested in collaborating or have a project in mind?</b><br/>
-  Reach out through any of my socials above or visit <a href="https://octaviantweaking.com">octaviantweaking.com</a>
-</p>
+</div>
 
 <br/>
 
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1a0533,30:6D28D9,50:8B5CF6,70:A855F7,90:EC4899,100:F97316&height=120&section=footer" />
-
 </div>
