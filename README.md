@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1a0533,30:6D28D9,50:8B5CF6,70:A855F7,90:EC4899,100:F97316&height=230&section=header&text=OCTAVIAN&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Systems%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Performance%20Architect&descSize=16&descAlignY=54&descColor=c4b5fd" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%F0%9F%94%A5+PC+Optimization+%26+Tweaking+Specialist;%F0%9F%8E%93+CS+Student+%40+Universitatea+1+Decembrie+Alba+Iulia;%F0%9F%92%BB+Full-Stack+Developer+%7C+C+%2F+C%2B%2B+%2F+Python;%F0%9F%9A%80+Building+Tools+That+Push+Hardware+to+the+Limit;%E2%9A%A1+Low-Latency+%7C+High-Performance+%7C+Zero+Compromise" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%F0%9F%94%A5+PC+Optimization+%26+Tweaking+Specialist;%F0%9F%92%BB+Full-Stack+Developer+%7C+C+%2F+C%2B%2B+%2F+Python;%F0%9F%9A%80+Building+Tools+That+Push+Hardware+to+the+Limit;%E2%9A%A1+Low-Latency+%7C+High-Performance+%7C+Zero+Compromise" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,8 +46,6 @@
 name:       Octavian
 alias:      OctavianAdv
 age:        20
-location:   Alba Iulia, Romania
-education:  2nd Year CS @ Universitatea 1 Decembrie, Alba Iulia
 
 roles:
   - Full-Stack Developer
@@ -156,8 +154,6 @@ _Performance scripts & configs_<br/><br/>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-Networking_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/CS_Degree_(In_Progress)-Universitatea_1_Decembrie_Alba_Iulia-A855F7?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0d1117" />
 
 <br/><br/>
 
