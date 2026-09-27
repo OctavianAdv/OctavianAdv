@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1a0533,30:6D28D9,50:8B5CF6,70:A855F7,90:EC4899,100:F97316&height=240&section=header&text=OCTAVIAN&fontSize=96&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Systems%20Engineer%20%E2%80%A2%20Latency%20Architect%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=58&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1a0533,30:6D28D9,50:8B5CF6,70:A855F7,90:EC4899,100:F97316&height=250&section=header&text=OCTAVIAN&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Linux%20Systems%20Administrator%20%E2%80%A2%20Security%20Practitioner%20%E2%80%A2%20Performance%20Architect&descSize=15&descAlignY=58&descColor=c4b5fd" />
 
 <a href="https://octaviantweaking.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=A855F7&center=true&vCenter=true&multiline=false&width=760&height=45&lines=If+it+runs%2C+it+can+run+faster.;Deterministic+latency+is+not+a+luxury+%E2%80%94+it+is+a+discipline.;From+interrupt+affinity+to+production+infrastructure.;Maximum+throughput.+Minimum+variance.+Zero+bloat.;Architect+of+the+Octavian+Tweaking+Utility+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=820&height=45&lines=If+it+runs%2C+it+can+run+faster+%E2%80%94+and+safer.;Polyglot+engineer.+Infrastructure+custodian.+Adversarial+thinker.;From+interrupt+affinity+to+hardened+production+fleets.;Architect+of+the+Octavian+Tweaking+Utility+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1200&color=EC4899&center=true&vCenter=true&width=760&height=26&lines=%E2%96%B8+kernel-adjacent+optimization+%E2%80%A2+frame-pacing+forensics+%E2%80%A2+network+determinism;%E2%96%B8+Windows+internals+%E2%80%A2+scheduler+heuristics+%E2%80%A2+interrupt+topology;%E2%96%B8+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Linux+%E2%80%A2+reverse+proxies+%E2%80%A2+infrastructure" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=EC4899&center=true&vCenter=true&width=820&height=26&lines=%E2%96%B8+Software+Engineering+%E2%80%A2+Full-Stack+Architecture+%E2%80%A2+Systems+Programming;%E2%96%B8+Multi-Distribution+Linux+Administration+%E2%80%A2+Infrastructure+Orchestration;%E2%96%B8+Game-Hosting+Platform+Engineering+%E2%80%A2+High-Availability+Topologies;%E2%96%B8+Defensive+Security+%E2%80%A2+Hardening+%E2%80%A2+Threat+Mitigation;%E2%96%B8+Low-Latency+Windows+Optimization+%E2%80%A2+Frame-Pacing+Forensics" alt="Subtitle" />
 
 <br/>
 
@@ -15,55 +15,219 @@
 <a href="https://octaviantweaking.com"><img src="https://img.shields.io/badge/OCTAVIANTWEAKING.COM-F97316?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" /></a>
 <a href="https://davidenko.ro"><img src="https://img.shields.io/badge/DAVIDENKO.RO-A855F7?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" /></a>
 
-<br/><br/>
-
-<img width="92%" src="./assets/terminal.svg" alt="Boot sequence" />
-
 </div>
 
 <img width="100%" src="./assets/divider.svg" />
 
 ## 🧬 Manifesto
 
-I am a **systems engineer, performance architect, and full-stack developer** from Romania 🇷🇴, operating at the intersection where silicon, operating-system heuristics, and human perception converge.
+I am a **polymathic software engineer, multi-distribution Linux systems administrator, game-hosting platform architect, security practitioner, and performance engineer** from Romania 🇷🇴 — operating at the confluence where source code, operating-system internals, network infrastructure, and adversarial threat models intersect.
 
-My work is predicated on a singular, uncompromising thesis: **the overwhelming majority of consumer machines operate substantially beneath their architectural potential** — throttled not by insufficient hardware, but by conservative vendor defaults, indiscriminate telemetry, power-management heuristics optimized for battery longevity rather than responsiveness, and decades of accumulated operating-system entropy.
+My professional ethos rests upon a deliberately uncompromising premise: **every system — whether a competitive gaming workstation, a production web platform, or a fleet of multiplayer game servers — can be rendered faster, leaner, more deterministic, and more resilient than its default state permits.** Vendor defaults are, by necessity, calibrated for the lowest common denominator; my discipline is the systematic, evidence-based transcendence of those defaults.
 
-I approach optimization not as a collection of folkloric registry tweaks, but as an **empirical, measurement-driven engineering discipline** — isolating bottlenecks with forensic precision, intervening surgically, and validating every modification against reproducible telemetry. Frametime variance, DPC/ISR latency, input-to-photon delay, and network jitter are not abstractions to me; they are the quantifiable adversaries I dismantle.
+I refuse to treat engineering as a collection of isolated specialisms. Performance without security is recklessness; security without availability is paralysis; availability without observability is blind faith. I therefore approach every undertaking **holistically** — conceiving, implementing, deploying, hardening, monitoring, and continuously refining the entire lifecycle, from the first line of code to the last packet traversing the wire.
 
 > *"If it runs, it can run faster."*
-> — and if it runs faster, it can run **more consistently**. Consistency is the true currency of performance.
+> — and if it runs faster, it must also run **safer, steadier, and longer**.
 
 <img width="100%" src="./assets/divider.svg" />
 
 ## ⚡ `whoami`
 
 ```typescript
-interface PerformanceArchitect {
-  readonly identity:    "Octavian";
-  readonly origin:      "Romania 🇷🇴";
-  readonly disciplines: readonly string[];
+interface Engineer {
+  readonly identity:    string;
+  readonly origin:      string;
+  readonly disciplines: Record<string, readonly string[]>;
   readonly doctrine:    string;
 }
 
-export const octavian: PerformanceArchitect & Record<string, unknown> = {
-  identity:    "Octavian",
-  origin:      "Romania 🇷🇴",
-  disciplines: [
-    "Low-latency Windows systems engineering",
-    "Interrupt topology & scheduler heuristics",
-    "Frame-pacing forensics & input-latency minimization",
-    "Network stack determinism",
-    "Full-stack web architecture",
-    "Linux server administration & reverse-proxy infrastructure",
-  ],
-  enterprise:  "Octavian Tweaking — bespoke PC optimization & performance engineering",
-  flagship:    "Octavian Tweaking Utility (OTU)",
-  academia:    "B.Sc. Computer Science — Universitatea 1 Decembrie 1918",
-  broadcast:   ["TikTok", "YouTube", "Instagram", "Kick"],
-  doctrine:    "Measure. Isolate. Intervene. Validate. Never assume.",
+export const octavian: Engineer = {
+  identity: "Octavian",
+  origin:   "Romania 🇷🇴",
+  disciplines: {
+    softwareEngineering: ["C", "C++", "C#/.NET", "TypeScript", "Python", "PowerShell", "Bash"],
+    webArchitecture:     ["Next.js", "React", "Angular", "Node.js", "Express", "PostgreSQL", "MySQL"],
+    linuxAdministration: ["Ubuntu", "Debian", "Rocky Linux", "AlmaLinux", "Fedora", "Arch Linux"],
+    hostingPlatforms:    ["Dedicated & virtualized servers", "Control panels", "Game-server orchestration"],
+    cyberSecurity:       ["System hardening", "Network defense", "DDoS mitigation", "Incident response"],
+    performance:         ["Windows internals", "Interrupt topology", "Latency & frame-pacing forensics"],
+  },
+  doctrine: "Measure. Isolate. Harden. Automate. Validate. Never assume.",
 };
 ```
+
+<img width="100%" src="./assets/divider.svg" />
+
+## 🗺️ Domains of Mastery
+
+<div align="center">
+
+| | Domain | Scope of Expertise |
+|:--:|:--|:--|
+| 💻 | **Software Engineering** | Systems programming, desktop tooling, full-stack web platforms, automation and scripting across heterogeneous runtimes |
+| 🐧 | **Linux Systems Administration** | Provisioning, configuration, hardening, and lifecycle stewardship across Debian-based, RHEL-based, and rolling-release distributions |
+| 🎮 | **Game-Hosting Platform Engineering** | Architecting, deploying, and operating multiplayer infrastructure with emphasis on tick-rate stability and availability |
+| 🛡️ | **Cyber Security** | Defensive architecture, attack-surface reduction, threat mitigation, vulnerability assessment, and incident response |
+| 🌐 | **Infrastructure & Networking** | Reverse proxies, TLS termination, DNS, CDN integration, firewalling, and traffic engineering |
+| ⚙️ | **Performance Engineering** | Low-latency Windows optimization, scheduler heuristics, interrupt topology, and frame-pacing analysis |
+
+</div>
+
+<img width="100%" src="./assets/divider.svg" />
+
+## 🏛️ Infrastructure Philosophy — Reference Architecture
+
+```mermaid
+flowchart TB
+    U([🌍 Clients & Players]) --> CF[☁️ Edge Layer<br/>CDN • WAF • DDoS Scrubbing]
+    CF --> FW{🛡️ Host Firewall<br/>nftables • rate limiting}
+    FW --> RP[🔀 Reverse Proxy<br/>Nginx • TLS termination]
+    FW --> GS[🎮 Game-Server Nodes<br/>isolated • containerized]
+    RP --> APP[⚙️ Application Tier<br/>Node.js • Next.js]
+    APP --> DB[(🗄️ Data Tier<br/>PostgreSQL • MySQL)]
+    GS --> BK[(💾 Automated Backups<br/>versioned • off-site)]
+    DB --> BK
+    APP & GS & DB --> MON[📈 Observability<br/>metrics • logs • alerting]
+    MON -.->|anomaly| IR[🚨 Incident Response]
+
+    style U fill:#1a0533,stroke:#A855F7,color:#fff
+    style CF fill:#0d1117,stroke:#F97316,color:#fff
+    style FW fill:#0d1117,stroke:#EC4899,color:#fff
+    style MON fill:#6D28D9,stroke:#A855F7,color:#fff
+    style IR fill:#0d1117,stroke:#EC4899,color:#fff
+```
+
+**Defense in depth, layered by design.** Each tier presumes the compromise of the tier preceding it, constraining blast radius and ensuring that no single failure — accidental or adversarial — cascades into systemic collapse.
+
+<img width="100%" src="./assets/divider.svg" />
+
+## 🐧 Linux Systems Administration
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
+<img src="https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white" />
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+
+</div>
+
+Fluency across distribution families is not merely a matter of memorizing divergent package managers — it is an intimate understanding of their **differing philosophies of stability, release cadence, default security posture, and init-system conventions**.
+
+<details>
+<summary><b>📦 Distribution Families & Operational Nuance</b></summary>
+<br/>
+
+| Family | Representatives | Package Ecosystem | Operational Character |
+|:--|:--|:--|:--|
+| **Debian-based** | Debian, Ubuntu | `apt` / `dpkg` | Conservative stability (Debian) or predictable LTS cadence (Ubuntu); AppArmor by default |
+| **RHEL-based** | Rocky Linux, AlmaLinux, CentOS | `dnf` / `rpm` | Enterprise longevity, binary compatibility, SELinux enforcing by default |
+| **Fedora** | Fedora Server / Workstation | `dnf` / `rpm` | Upstream-proximate innovation; proving ground for enterprise technologies |
+| **Rolling-release** | Arch Linux | `pacman` / AUR | Bleeding-edge currency; demands disciplined, deliberate maintenance |
+
+</details>
+
+<details>
+<summary><b>⚙️ Core Administrative Competencies</b></summary>
+<br/>
+
+| Discipline | Instruments | Objective |
+|:--|:--|:--|
+| **Service Orchestration** | `systemd` units, timers, dependency ordering | Deterministic, self-healing service lifecycles |
+| **Storage Engineering** | LVM, RAID, ext4, XFS, mount-option tuning | Resilient, performant, and extensible storage layouts |
+| **Kernel Tuning** | `sysctl`, I/O schedulers, network buffers, file-descriptor limits | Calibrating the kernel for the specific workload rather than the generic case |
+| **Web Serving** | Nginx, Apache, reverse proxying, TLS via ACME | Secure, efficient, horizontally composable HTTP delivery |
+| **Databases** | PostgreSQL, MySQL/MariaDB — tuning, replication, backup | Durable, consistent, and performant persistence |
+| **Containerization** | Docker, Compose, resource constraints, network isolation | Reproducible deployments with bounded blast radius |
+| **Automation** | Bash, cron, systemd timers, scripted provisioning | Eradicating toil and human error through idempotent automation |
+| **Observability** | Journald, log rotation, resource metrics, alerting | Perceiving degradation before it becomes an outage |
+| **Control Panels** | HestiaCP and comparable hosting panels | Multi-tenant web, mail, and DNS administration at scale |
+
+</details>
+
+<img width="100%" src="./assets/divider.svg" />
+
+## 🎮 Game-Hosting Platform Engineering
+
+In multiplayer environments, infrastructure quality is **directly perceptible** to every player. A dropped tick, a garbage-collection pause, or a volumetric flood is not an abstract incident — it is a ruined match. I engineer hosting environments accordingly.
+
+<details>
+<summary><b>🕹️ Platform Architecture & Operations</b></summary>
+<br/>
+
+| Dimension | Approach | Rationale |
+|:--|:--|:--|
+| **Bare-Metal Provisioning** | Dedicated servers with calibrated CPU governors and kernel parameters | Game servers are frequently single-thread-bound; clock stability eclipses core count |
+| **Server Software** | Paper/PaperMC and performance-oriented forks, proxy layers for networks | Asynchronous chunk processing and optimized tick loops sustain higher player density |
+| **JVM Engineering** | Heap sizing, garbage-collector selection and flag calibration | Minimizes stop-the-world pauses that manifest as in-game lag spikes |
+| **Tenant Isolation** | Containerization, per-instance resource quotas, dedicated users | Prevents a single misbehaving instance from starving its neighbors |
+| **Management Panels** | Web-based game-server panels with daemon-per-node topology | Delegated, auditable administration without granting shell access |
+| **Network Resilience** | Upstream DDoS scrubbing, protocol-aware filtering, connection throttling | Game protocols are prime volumetric and state-exhaustion targets |
+| **Data Durability** | Scheduled, versioned, off-site world and database backups | Recovery objectives measured in minutes, not days |
+| **Performance Profiling** | Tick-time analysis, TPS/MSPT monitoring, plugin profiling | Pinpointing the precise code path responsible for degradation |
+
+</details>
+
+<img width="100%" src="./assets/divider.svg" />
+
+## 🛡️ Cyber Security & Defensive Engineering
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=900&color=EC4899&center=true&vCenter=true&width=760&height=30&lines=Assume+breach.+Minimize+privilege.+Verify+everything.;Attack+surface+is+a+liability+%E2%80%94+reduce+it+relentlessly.;Think+like+the+adversary.+Defend+like+the+architect." alt="Security" />
+
+</div>
+
+Security is not a product one installs; it is an **emergent property of disciplined architecture**. I practice it through the lens of the adversary — anticipating reconnaissance, enumerating attack vectors, and dismantling them before they can be weaponized.
+
+<details>
+<summary><b>🔐 Host Hardening</b></summary>
+<br/>
+
+| Control | Implementation | Threat Neutralized |
+|:--|:--|:--|
+| **SSH Hardening** | Key-only authentication, root login disabled, non-default exposure, restricted ciphers | Credential brute-forcing and opportunistic scanning |
+| **Principle of Least Privilege** | Granular `sudo` policies, dedicated service accounts, restrictive permissions | Lateral movement and privilege escalation |
+| **Mandatory Access Control** | SELinux / AppArmor enforcement profiles | Post-exploitation containment |
+| **Patch Governance** | Disciplined update cadence, unattended security updates | Exploitation of publicly disclosed vulnerabilities |
+| **Service Minimization** | Disabling and removing every non-essential daemon | Attack-surface proliferation |
+| **Integrity & Auditing** | `auditd`, file-integrity monitoring, centralized logging | Undetected tampering and persistence |
+
+</details>
+
+<details>
+<summary><b>🌐 Network Defense</b></summary>
+<br/>
+
+| Control | Implementation | Threat Neutralized |
+|:--|:--|:--|
+| **Stateful Firewalling** | nftables / iptables / UFW with default-deny ingress | Unsolicited exposure of internal services |
+| **Intrusion Prevention** | Fail2ban / CrowdSec behavioral banning | Automated brute-force and abusive clients |
+| **DDoS Mitigation** | Edge scrubbing, rate limiting, SYN cookies, connection caps | Volumetric, protocol, and application-layer floods |
+| **Web Application Firewall** | Edge and reverse-proxy rule sets | Injection, traversal, and automated exploitation attempts |
+| **Transport Security** | Modern TLS configuration, HSTS, certificate automation | Interception and downgrade attacks |
+| **Origin Concealment** | Proxied DNS, origin firewalled to edge ranges only | Direct-to-origin attacks bypassing protection |
+
+</details>
+
+<details>
+<summary><b>🔎 Assessment, Detection & Response</b></summary>
+<br/>
+
+| Phase | Practice | Outcome |
+|:--|:--|:--|
+| **Reconnaissance Awareness** | Port and service enumeration of one's own perimeter | Seeing the infrastructure exactly as an attacker would |
+| **Vulnerability Assessment** | Configuration audits, dependency scrutiny, benchmark alignment | Identifying weaknesses before they are exploited |
+| **Application Security** | Input validation, parameterized queries, secure session handling, secret management | Eliminating OWASP-class vulnerabilities at the source |
+| **Log Analysis** | Correlating authentication, web, and system logs | Early detection of anomalous and malicious behavior |
+| **Incident Response** | Containment, eradication, recovery, post-mortem | Minimized dwell time and institutionalized lessons |
+| **Resilience Engineering** | Tested backups, documented recovery procedures | Survivability even under worst-case compromise |
+
+</details>
 
 <img width="100%" src="./assets/divider.svg" />
 
@@ -71,7 +235,7 @@ export const octavian: PerformanceArchitect & Record<string, unknown> = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=700&height=30&lines=Max+FPS.;Lowest+latency.;Zero+bloat.;Engineered%2C+not+guessed." alt="OTU" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=900&color=F97316&center=true&vCenter=true&width=700&height=30&lines=Max+FPS.;Lowest+latency.;Zero+bloat.;Engineered%2C+not+guessed." alt="OTU" />
 
 **A comprehensive, holistic performance-orchestration suite for Windows** — consolidating system-level, network-level, and input-level optimization into a single, coherent, meticulously engineered instrument.
 
@@ -82,17 +246,13 @@ export const octavian: PerformanceArchitect & Record<string, unknown> = {
 
 | Subsystem | Intervention Vector | Engineering Objective |
 |:--|:--|:--|
-| 🧠 **Processor & Scheduler** | Quantum configuration, core-parking suppression, idle-state governance | Maximize foreground-thread responsiveness and eradicate wake-up latency |
+| 🧠 **Processor & Scheduler** | Quantum configuration, core-parking suppression, idle-state governance | Maximize foreground responsiveness and eradicate wake-up latency |
 | ⏱️ **Timers & Interrupts** | Timer-resolution coercion, MSI delivery, interrupt-affinity pinning | Deterministic interrupt servicing with minimal DPC/ISR jitter |
-| 🎮 **Graphics Pipeline** | Presentation-model optimization, driver debloating, scheduler configuration | Low-variance frame delivery and reduced render-queue depth |
+| 🎮 **Graphics Pipeline** | Presentation-model optimization, driver debloating | Low-variance frame delivery and reduced render-queue depth |
 | 🧮 **Memory Subsystem** | Standby-list governance, paging-policy calibration | Eliminate cache-eviction stutter and allocation stalls |
-| 🌐 **Network Stack** | Nagle neutralization, RSS balancing, adapter power-saving eradication | Minimize packet-coalescing delay and jitter in real-time traffic |
+| 🌐 **Network Stack** | Nagle neutralization, RSS balancing, adapter power-saving eradication | Minimize packet-coalescing delay and real-time jitter |
 | 🖱️ **Input Path** | Raw-input validation, acceleration removal, USB power-policy correction | Faithful, one-to-one, latency-minimized peripheral input |
-| 🧹 **Operating System** | Telemetry suppression, service rationalization, scheduled-task pruning | Reclaim CPU cycles, I/O bandwidth, and memory from background entropy |
-
-<img width="100%" src="./assets/divider.svg" />
-
-## 🔬 Methodology — The Optimization Lifecycle
+| 🧹 **Operating System** | Telemetry suppression, service rationalization, task pruning | Reclaim cycles, I/O bandwidth, and memory from background entropy |
 
 ```mermaid
 flowchart LR
@@ -111,161 +271,55 @@ flowchart LR
     style H fill:#6D28D9,stroke:#A855F7,color:#fff
 ```
 
-Every modification traverses this lifecycle. **Nothing is applied on faith.** Each intervention is benchmarked against a controlled baseline, scrutinized for regressions, and remains fully reversible.
-
-<div align="center">
-<img width="92%" src="./assets/frametime.svg" alt="Frametime analyzer" />
-</div>
-
-<img width="100%" src="./assets/divider.svg" />
-
-## 📚 The Optimization Doctrine
-
-<sub>An encyclopedic compendium of the domains I engineer. Expand any section.</sub>
-
 <details>
-<summary><b>🧠 Processor, Scheduler & Power Management</b></summary>
+<summary><b>📚 The Performance Doctrine — Windows Internals Compendium</b></summary>
 <br/>
 
-The Windows scheduler is a general-purpose arbiter, calibrated for fairness across heterogeneous workloads — not for the latency-critical, single-application determinism that competitive gaming demands.
+#### 🧠 Processor, Scheduler & Power Management
 
 | Parameter | Mechanism | Rationale |
 |:--|:--|:--|
-| `Win32PrioritySeparation` | Governs quantum length, variability, and foreground boost | Shapes how aggressively the foreground process is favored over background threads |
-| **Core Parking** | Dynamically consolidates load onto fewer cores | Unparking eliminates the latency penalty of re-awakening dormant cores |
-| **Processor Idle States (C-states)** | Progressively deeper power-saving sleep states | Deep C-states impose exit latency; constraining them yields snappier wake-ups |
-| **Energy Performance Preference** | Hints the CPU's internal frequency governor | Biasing toward performance expedites frequency ramp-up under burst loads |
-| **Heterogeneous / SMT Topology** | P-core/E-core and logical-sibling awareness | Ensures latency-sensitive threads land on the most capable execution resources |
-| **Custom Power Plans** | Consolidated processor power-management policy | Replaces battery-oriented heuristics with throughput- and latency-oriented ones |
+| `Win32PrioritySeparation` | Quantum length, variability, and foreground boost | Shapes how aggressively the foreground process is favored |
+| **Core Parking** | Consolidates load onto fewer active cores | Unparking eliminates the penalty of re-awakening dormant cores |
+| **C-states** | Progressively deeper idle states | Deep states impose exit latency; constraining them yields snappier wake-ups |
+| **Energy Performance Preference** | Hints the CPU's internal frequency governor | Expedites frequency ramp-up under burst loads |
 
-</details>
-
-<details>
-<summary><b>⏱️ Timer Resolution, Clock Sources & Interrupt Topology</b></summary>
-<br/>
-
-Latency is fundamentally a function of **how quickly and how predictably** the system responds to events. Timers and interrupts are the nervous system of that responsiveness.
+#### ⏱️ Timers & Interrupts
 
 | Parameter | Mechanism | Rationale |
 |:--|:--|:--|
-| **Global Timer Resolution** | `NtSetTimerResolution` — default ≈15.6 ms granularity | Finer resolution (e.g. 0.5 ms) tightens sleep precision and frame-limiter accuracy |
-| **Dynamic Tick** | `bcdedit /set disabledynamictick yes` | Prevents the kernel from coalescing timer ticks during perceived idleness |
-| **Platform Clock** | TSC vs. HPET selection via `useplatformclock` | Avoids forcing the comparatively expensive HPET as the primary clock source |
-| **MSI / MSI-X Mode** | Message-Signaled Interrupts replace legacy line-based IRQs | Reduces interrupt-sharing contention and servicing overhead |
-| **Interrupt Affinity** | Pins device interrupts to designated cores | Isolates GPU, NIC, and USB servicing from the game's critical threads |
-| **DPC / ISR Latency** | Deferred Procedure Call & Interrupt Service Routine execution time | The primary diagnostic metric for micro-stutter and audio crackling |
+| **Timer Resolution** | `NtSetTimerResolution` — default ≈15.6 ms | Finer granularity tightens sleep precision and frame-limiter accuracy |
+| **Dynamic Tick** | `disabledynamictick` | Prevents tick coalescing during perceived idleness |
+| **MSI / MSI-X** | Message-signaled interrupts | Reduces interrupt-sharing contention and servicing overhead |
+| **Interrupt Affinity** | Pins device interrupts to designated cores | Isolates GPU, NIC, and USB servicing from critical game threads |
 
-</details>
-
-<details>
-<summary><b>🎮 Graphics Pipeline, Presentation & Frame Pacing</b></summary>
-<br/>
-
-Average FPS is a vanity metric. **Frametime consistency and 1% / 0.1% lows** are what the human visual system actually perceives.
+#### 🎮 Graphics & Frame Pacing
 
 | Parameter | Mechanism | Rationale |
 |:--|:--|:--|
-| **Presentation Model** | Flip-model, independent flip, legacy exclusive fullscreen | Bypassing composition overhead reduces presentation latency |
-| **HAGS** | Hardware-Accelerated GPU Scheduling | Offloads VRAM scheduling to the GPU; benefit is workload- and driver-dependent |
-| **Render Queue Depth** | Low-latency modes / Reflex / Anti-Lag | Shrinks pre-rendered frame buffering to curtail input latency |
-| **Multiplane Overlay (MPO)** | Hardware composition planes | Can induce flicker/stutter on certain configurations; evaluated case-by-case |
-| **Shader Cache** | Persistent compiled-shader storage | Adequately sized caches mitigate compilation stutter |
-| **Driver Hygiene** | Minimal driver installation, telemetry excision | Eliminates superfluous components, services, and overlays |
+| **Presentation Model** | Flip-model / independent flip | Bypasses composition overhead |
+| **Render Queue Depth** | Low-latency modes, Reflex, Anti-Lag | Curtails input latency by shrinking frame buffering |
+| **HAGS / MPO** | GPU scheduling, hardware overlays | Evaluated per configuration — never applied dogmatically |
 
-</details>
-
-<details>
-<summary><b>🧮 Memory Subsystem</b></summary>
-<br/>
+#### 🌐 Network & 🖱️ Input
 
 | Parameter | Mechanism | Rationale |
 |:--|:--|:--|
-| **Standby List** | Cached memory retained for rapid re-use | Pathological standby-list growth can precipitate allocation stalls and stutter |
-| **XMP / EXPO** | Rated memory profiles in firmware | Unenabled profiles leave memory at conservative JEDEC frequencies and timings |
-| **Primary & Secondary Timings** | tCL, tRCD, tRP, tRAS, tRFC, tREFI | Manual calibration reduces effective memory latency beyond stock profiles |
-| **Memory Compression** | Kernel-level page compression | Trades CPU cycles for capacity; context-dependent value |
-| **Page File Policy** | Virtual-memory backing store | Calibrated sizing prevents commit-limit exhaustion without wasteful I/O |
+| **Nagle's Algorithm** | `TcpAckFrequency` / `TCPNoDelay` | Removes small-packet coalescing delay |
+| **Interrupt Moderation / RSS** | NIC batching and multi-core distribution | Balances throughput against per-packet responsiveness |
+| **Pointer Acceleration** | Enhance Pointer Precision | Removal restores one-to-one, muscle-memory-consistent input |
+| **USB Selective Suspend** | Per-port power management | Prevents mid-session peripheral power transitions |
 
-</details>
+#### 📐 Validation Protocol
 
-<details>
-<summary><b>🌐 Network Stack Determinism</b></summary>
-<br/>
-
-In real-time multiplayer environments, **jitter is more pernicious than raw ping**. A stable 30 ms outperforms an erratic 15 ms.
-
-| Parameter | Mechanism | Rationale |
-|:--|:--|:--|
-| **Nagle's Algorithm** | `TcpAckFrequency` / `TCPNoDelay` | Disables small-packet coalescing that introduces transmission delay |
-| **Receive-Side Scaling (RSS)** | Distributes packet processing across cores | Prevents single-core network-processing saturation |
-| **Interrupt Moderation** | NIC-level interrupt batching | Trading throughput efficiency for per-packet responsiveness |
-| **Adapter Power Saving** | Energy-Efficient Ethernet, Green Ethernet, selective suspend | Eradicates link-state transitions and wake latency |
-| **Flow Control** | Ethernet PAUSE frames | Can introduce unpredictable transmission stalls |
-| **Bufferbloat** | Excessive queueing in routers/modems | Mitigated via Smart Queue Management (SQM) and QoS discipline |
-
-</details>
-
-<details>
-<summary><b>🖱️ Input Path Fidelity</b></summary>
-<br/>
-
-| Parameter | Mechanism | Rationale |
-|:--|:--|:--|
-| **Enhance Pointer Precision** | Windows pointer-acceleration curve | Non-linear acceleration corrupts muscle-memory consistency |
-| **Raw Input** | Direct HID data, bypassing the pointer ballistics pipeline | Guarantees one-to-one sensor-to-cursor translation |
-| **Polling Rate** | 1000 / 2000 / 4000 / 8000 Hz | Higher rates shrink reporting intervals at the cost of CPU overhead |
-| **USB Selective Suspend** | Per-port power management | Prevents peripherals from entering power-saving states mid-session |
-| **USB Controller Topology** | Device placement across xHCI controllers | Segregating high-polling peripherals minimizes controller contention |
-
-</details>
-
-<details>
-<summary><b>🧹 Operating-System Rationalization</b></summary>
-<br/>
-
-| Domain | Intervention | Rationale |
-|:--|:--|:--|
-| **Telemetry** | Diagnostic-data pipelines, CEIP, error reporting | Reclaims CPU, disk I/O, and network bandwidth |
-| **Services** | Rationalization of superfluous background services | Diminishes context-switching pressure and memory footprint |
-| **Scheduled Tasks** | Pruning of maintenance and telemetry tasks | Prevents unpredictable mid-session background activity |
-| **Background Applications** | UWP background execution policy | Curtails resource contention from dormant applications |
-| **Security Trade-offs** | VBS / HVCI / CPU mitigations | Measurable overhead — **documented transparently, never altered silently** |
-
-</details>
-
-<details>
-<summary><b>🔩 Firmware & BIOS Engineering</b></summary>
-<br/>
-
-| Parameter | Mechanism | Rationale |
-|:--|:--|:--|
-| **Resizable BAR** | Full VRAM addressability by the CPU | Enhances asset-transfer efficiency in supported titles |
-| **PBO / Curve Optimizer** | Per-core voltage-frequency curve calibration (AMD) | Elevates sustained boost clocks within thermal and electrical limits |
-| **Undervolting** | Reduced voltage at equivalent frequency | Lower thermals → higher sustained boost → greater consistency |
-| **Unused Controllers** | Disabling superfluous onboard devices | Eliminates spurious interrupts and driver overhead |
-| **Firmware C-state Policy** | Platform-level idle-state configuration | Complements OS-level latency governance |
-
-</details>
-
-<details>
-<summary><b>📐 Instrumentation & Benchmarking Protocol</b></summary>
-<br/>
-
-```text
-┌───────────────────────────────────────────────────────────────────────┐
-│  PROTOCOL: EMPIRICAL VALIDATION                                        │
-├───────────────────────────────────────────────────────────────────────┤
-│  01 │ Establish a controlled baseline — identical scene, settings,     │
-│     │ resolution, thermal equilibrium, and background state.           │
-│  02 │ Capture frametimes (PresentMon / CapFrameX) across ≥3 passes.    │
-│  03 │ Profile DPC/ISR latency (LatencyMon, Windows Performance         │
-│     │ Recorder + Windows Performance Analyzer / xperf).                │
-│  04 │ Apply ONE intervention at a time — never confound variables.     │
-│  05 │ Re-capture. Compare averages, 1% lows, 0.1% lows, variance.      │
-│  06 │ Retain only statistically meaningful improvements.               │
-│  07 │ Document. Snapshot. Guarantee reversibility.                     │
-└───────────────────────────────────────────────────────────────────────┘
-```
+| Step | Procedure |
+|:--:|:--|
+| **01** | Establish a controlled baseline — identical scene, settings, and thermal equilibrium |
+| **02** | Capture frametimes with PresentMon / CapFrameX across multiple passes |
+| **03** | Profile DPC/ISR latency with LatencyMon and Windows Performance Analyzer |
+| **04** | Apply exactly **one** intervention — never confound variables |
+| **05** | Re-capture and compare averages, 1% lows, 0.1% lows, and variance |
+| **06** | Retain only statistically meaningful improvements; document and guarantee reversibility |
 
 </details>
 
@@ -308,11 +362,14 @@ A **full-stack e-commerce platform** for bespoke controllers and competitive gam
 **Frontend & Backend Frameworks**<br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,angular,nodejs,express,dotnet,tailwind&theme=dark&perline=8" />
 
-**Data, Infrastructure & Operations**<br/>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,linux,windows,docker,nginx,cloudflare&theme=dark&perline=8" />
+**Operating Systems & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,fedora,windows,docker,nginx,cloudflare&theme=dark&perline=9" />
+
+**Data & Persistence**<br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,redis&theme=dark&perline=8" />
 
 **Engineering Toolchain**<br/>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,githubactions,figma&theme=dark&perline=8" />
 
 </div>
 
@@ -351,7 +408,7 @@ A **full-stack e-commerce platform** for bespoke controllers and competitive gam
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Performance+is+not+an+accident.+It+is+engineered.;Every+millisecond+reclaimed+is+a+victory.;Thanks+for+visiting+%E2%80%94+now+go+optimize+something.+%E2%9A%A1" alt="Outro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=760&lines=Performance+is+not+an+accident.+It+is+engineered.;Security+is+not+a+feature.+It+is+a+discipline.;Thanks+for+visiting+%E2%80%94+now+go+build+something+formidable.+%E2%9A%A1" alt="Outro" />
 
 </div>
 
